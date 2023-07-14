@@ -1,3 +1,4 @@
+Working Link : https://password-generator-vanilla-javascript.netlify.app/
 This is a Password Generator web application built using HTML, CSS, and JavaScript. The app allows users to generate secure passwords with customizable options.
 
 Features Customizable password length Option to include uppercase letters Option to include lowercase letters Option to include numbers Option to include special characters Copy password to clipboard functionality
